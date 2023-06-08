@@ -1,14 +1,9 @@
-.left {
-    background-color: black;
-    color: white;
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
 }
 
-.right {
-    background-color: yellow;
-}
-
-.left, 
-.right {
-    font-size: 28px;
-    font-family: "Times New Roman", Helvetica, sans-serif;
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
 }
